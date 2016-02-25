@@ -14,11 +14,24 @@ body {
             
 /* Section styles  */
 section {
-        padding-top: 20px;
+         padding-top: 20px;
         font-family: 'Times New Roman', Times, serif;
         letter-spacing:2px;
         font-size:1.4em;
         color:#E5EFFF;
           }
+          
+/* Links */ 
+ link a:link {
+    color: snow;
+    text-decoration: none;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+ link a:visited {
+    color: snow;
+    text-decoration: none;
+}
 
 </style>
