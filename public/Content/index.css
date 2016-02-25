@@ -22,12 +22,12 @@ body {
     font-size: 4em;
     font-weight: 100;
     position: relative;
-    margin-top: 15%;
+    margin-top: 5%;
     letter-spacing: 8px;
 
 } 
     .header2{
-        text-align: center;
+    text-align: center;
     color: ghostwhite;
     margin-left: 50px;
     font-family: 'Arvo', serif;
@@ -38,5 +38,12 @@ body {
     letter-spacing: 7px;
     }
  
+ img{
+     width: 500px;
+     height: 250px;
+     margin-top: 3%;
+     position: relative;
+     
+ }
 
 </style>
